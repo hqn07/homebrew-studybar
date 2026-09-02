@@ -1,6 +1,6 @@
 cask "studybar" do
-  version "1.8.3"
-  sha256 "d6c978220a398da2e715b896f957b7b1d14282fb965897eca0e3766fd8b4d542"
+  version "1.8.4"
+  sha256 "24ce3cf94709968643cdb7f23df78b2b2124efa8900121cafaf8e22217e54713"
 
   url "https://github.com/hqn07/studybar/releases/download/v#{version}/StudyBar-#{version}.dmg"
   name "StudyBar"
